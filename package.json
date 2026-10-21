@@ -1,5 +1,5 @@
 {
-  "name": "simple-notes-app",
+  "name": "notes-app",
   "private": true,
   "scripts": {
     "start": "npx --yes serve -l 4173 ."

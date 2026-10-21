@@ -1,14 +1,6 @@
-# Simple Notes App
+# Notes App
 
-Add an About/explain screen for Simple Notes App that presents the user's description of the app.
-
-User's app description:
-A lightweight notes application with note creation, list view, and an About screen that explains the app: capture notes, browse them, and understand why it exists.
-
-Acceptance criteria:
-- There is a dedicated About (or equivalent) screen reachable from the homepage.
-- The screen presents the user's description of Simple Notes App without omitting it.
-- A visitor can understand what Simple Notes App is for from this screen alone.
+A lightweight notes application with note creation, a list view, and an About screen that explains the app. Capture notes, browse them, and understand why it exists.
 
 ## Run locally
 
